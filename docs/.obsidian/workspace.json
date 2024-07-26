@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "4ac979c96477af07",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4bf4d504a070463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bf65aa9149a81e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d43ff3077c761bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac4b9c0dfe85b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2019471d753c9701",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5554396e386093a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d9ffaa78f750cf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5701707b94fbfa3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dccadfe121176e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fceb9d16cd961b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2910af37e8370d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5db8c918429bd5b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97bb7b4a8a622fd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hello.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6bf65aa9149a81e7",
+  "lastOpenFiles": [
+    "intro.md",
+    "tutorial-extras/img/docsVersionDropdown.png",
+    "tutorial-basics/markdown-test.md",
+    "tutorial-basics/create-a-document.md",
+    "tutorial-basics/deploy-your-site.md",
+    "tutorial-basics/create-a-page.md",
+    "tutorial-basics/create-a-blog-post.md",
+    "tutorial-basics/congratulations.md",
+    "hello.md",
+    "tutorial-extras/translate-your-site.md",
+    "tutorial-extras/manage-docs-versions.md"
+  ]
+}
